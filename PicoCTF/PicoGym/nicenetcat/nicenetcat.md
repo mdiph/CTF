@@ -27,4 +27,8 @@ for i in octal:
 
 print(test)
 ```
-You can use this = ![Python Program](/PicoCTF/PicoGym/nicenetcat/nicenetcat.py)
+You can use this: ![Python Program](/PicoCTF/PicoGym/nicenetcat/nicenetcat.py)
+
+## Output
+
+`picoCTF{g00d_k1tty!_n1c3_k1tty!_afd5fda4}`
