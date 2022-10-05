@@ -1,4 +1,4 @@
-# PicoGYM Nice netcat...
+# PicoGym Nice netcat...
 > Accessed 5 October 2022
 **15 POINTS**
 ---
@@ -12,7 +12,7 @@
 2.  You can practice reading and writing ASCII with this picoGym problem: [Let's Warm Up](https://play.picoctf.org/practice/challenge/22)
 ---
 
-## Explanation
+## Explanations
 
 When accessing the given command in shell "**nc mercury.picoctf.net 21135**" we will get an output of several number like this:
 
