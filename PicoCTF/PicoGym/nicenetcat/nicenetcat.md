@@ -27,4 +27,4 @@ for i in octal:
 
 print(test)
 ```
-![Program](/PicoCTF/PicoGym/nicenetcat/nicenetcat.py)
+You can use this = ![Python Program](/PicoCTF/PicoGym/nicenetcat/nicenetcat.py)
