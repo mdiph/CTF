@@ -1,6 +1,7 @@
 # Mind your Ps and Qs
 > Accessed 5 October 2022
 **20 POINTS**
+
 ---
 
 ## Description
@@ -13,15 +14,21 @@
 
 ## Explanations
 you can download the "values" file or do this command in shell:
+
 `wget https://mercury.picoctf.net/static/2604f8b51a5cc62d38a3736938f19cef/values`
+
 Checking that the file is an ASCII text by doing this command:
 `file values`
+
 After that, we can use a command to display the inside of the file:
 `cat values`
+
 and the program will output like this:
+
 ![Values Output](/PicoCTF/PicoGym/Mind%20Ps%20and%20Qs/Asset/Capture.PNG)
 
 With that, we can use a web decryption tools [Web Tools](https://www.dcode.fr/rsa-cipher) and input the values
+
 ---
 
 ## Output
