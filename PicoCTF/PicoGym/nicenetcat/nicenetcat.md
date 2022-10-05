@@ -15,4 +15,6 @@
 ## Explanation
 
 When accessing the given command in shell "**nc mercury.picoctf.net 21135**" we will get an output of several number like this:
-![Capture.PNG]
+![Output Command](/PicoCTF/PicoGym/nicenetcat/Capture.PNG)
+
+![Program](/PicoCTF/PicoGym/nicenetcat/nicenetcat.py)
